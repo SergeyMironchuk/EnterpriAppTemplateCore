@@ -1,1 +1,1 @@
-# EnterpriAppTemplateCore
+# EnterpriseAppTemplateCore
